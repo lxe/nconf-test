@@ -1,6 +1,6 @@
 var nconf = require('nconf')
   , express = require('express')
-  , sample_module  = require('./lib/sample_module')
+  , sample_module  = require('nconf-test-module')
 
 nconf.file('config.json', './config.json')
 
