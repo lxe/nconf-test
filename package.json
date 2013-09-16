@@ -1,11 +1,10 @@
 {
-  "name": "nconf-test",
+  "name": "nconf-test-module",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "nconf": "~0.6.7",
-    "express": "~3.4.0"
+    "nconf": "~0.6.7"
   },
   "devDependencies": {},
   "scripts": {
